@@ -1,0 +1,10 @@
+Assumptions:
+
+SA and SV pulses are also .001s
+
+Timers operate at 1MHz exactly
+
+Timers Setup and Hold Time is short enough that a .001s signal is caught
+
+.001s transition/setup time between timer and pulse generator
+
